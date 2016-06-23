@@ -25,10 +25,16 @@ I do not recommend doing so and take no responsiblity for any security problems 
 issues you may encounter.
 
 
+### Uninstalling
+
+Remove the .kext which should have been installed at /Library/Extensions/OUYAGameController.kext.
+Be careful.
+
+
 ### License
 
-As it is derived from code contributed by OUYA to the Linux kernel, this driver is covered by the
-GNU General Public License, version 2
+As it is partially derived from code contributed by OUYA to the Linux kernel, this driver is
+covered by the GNU General Public License, version 2
 
 
 ### NO WARRANTY
